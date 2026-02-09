@@ -1,0 +1,170 @@
+{
+  "_badge-df6fIrhB.js": {
+    "file": "assets/js/badge-df6fIrhB.js",
+    "name": "badge",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js"
+    ]
+  },
+  "_button-BZHKdcYg.js": {
+    "file": "assets/js/button-BZHKdcYg.js",
+    "name": "button",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_vendor-form-CEKaKF0g.js"
+    ]
+  },
+  "_dialog-DP08yuvj.js": {
+    "file": "assets/js/dialog-DP08yuvj.js",
+    "name": "dialog",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js"
+    ]
+  },
+  "_form-r6jXGqnD.js": {
+    "file": "assets/js/form-r6jXGqnD.js",
+    "name": "form",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js",
+      "_badge-df6fIrhB.js"
+    ]
+  },
+  "_spinner-Bh85W_P9.js": {
+    "file": "assets/js/spinner-Bh85W_P9.js",
+    "name": "spinner",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js"
+    ]
+  },
+  "_vendor-animation-CVFCVbqT.js": {
+    "file": "assets/js/vendor-animation-CVFCVbqT.js",
+    "name": "vendor-animation"
+  },
+  "_vendor-form-CEKaKF0g.js": {
+    "file": "assets/js/vendor-form-CEKaKF0g.js",
+    "name": "vendor-form",
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx"
+    ]
+  },
+  "_vendor-state-C7_lE9wR.js": {
+    "file": "assets/js/vendor-state-C7_lE9wR.js",
+    "name": "vendor-state"
+  },
+  "_vendor-ui-BQCqNqg0.js": {
+    "file": "assets/js/vendor-ui-BQCqNqg0.js",
+    "name": "vendor-ui"
+  },
+  "app/layouts/base.tsx?__react-router-build-client-route": {
+    "file": "assets/js/base-52TaSaPH.js",
+    "name": "base",
+    "src": "app/layouts/base.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js"
+    ]
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/js/root-FCCPzPke.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js"
+    ],
+    "css": [
+      "assets/css/root-CJ4ptm2m.css"
+    ]
+  },
+  "app/routes/ticket.detail.tsx?__react-router-build-client-route": {
+    "file": "assets/js/ticket.detail-DDlHR5vF.js",
+    "name": "ticket.detail",
+    "src": "app/routes/ticket.detail.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js",
+      "_dialog-DP08yuvj.js",
+      "_spinner-Bh85W_P9.js",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js",
+      "_vendor-form-CEKaKF0g.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx"
+    ]
+  },
+  "app/routes/ticket.edit.tsx?__react-router-build-client-route": {
+    "file": "assets/js/ticket.edit-BuerkhTL.js",
+    "name": "ticket.edit",
+    "src": "app/routes/ticket.edit.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_vendor-form-CEKaKF0g.js",
+      "_button-BZHKdcYg.js",
+      "_form-r6jXGqnD.js",
+      "_spinner-Bh85W_P9.js",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js",
+      "_badge-df6fIrhB.js"
+    ]
+  },
+  "app/routes/ticket.list.tsx?__react-router-build-client-route": {
+    "file": "assets/js/ticket.list-BM0TEyMH.js",
+    "name": "ticket.list",
+    "src": "app/routes/ticket.list.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_button-BZHKdcYg.js",
+      "_spinner-Bh85W_P9.js",
+      "_badge-df6fIrhB.js",
+      "_dialog-DP08yuvj.js",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js",
+      "_vendor-form-CEKaKF0g.js"
+    ]
+  },
+  "app/routes/ticket.new.tsx?__react-router-build-client-route": {
+    "file": "assets/js/ticket.new-BP-MCdrf.js",
+    "name": "ticket.new",
+    "src": "app/routes/ticket.new.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+      "_vendor-form-CEKaKF0g.js",
+      "_button-BZHKdcYg.js",
+      "_form-r6jXGqnD.js",
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js",
+      "_badge-df6fIrhB.js"
+    ]
+  },
+  "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/js/entry.client-CeFhF4CH.js",
+    "name": "entry.client",
+    "src": "node_modules/.pnpm/@react-router+dev@7.12.0_@r_de0d01194d110e0e10acbe29c8106b20/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-state-C7_lE9wR.js",
+      "_vendor-animation-CVFCVbqT.js",
+      "_vendor-ui-BQCqNqg0.js"
+    ]
+  }
+}
